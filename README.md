@@ -35,8 +35,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/jmarquesdev/jmarquesdev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/jmarquesdev/jmarquesdev/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarquesDev&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&locale=pt-br" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JMarquesDev&show_icons=true&theme=rose_pine&hide_border=true&locale=pt-br" height="150" alt="stats graph" />
 </div>
 
 ###
