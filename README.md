@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="200" src="https://i.pinimg.com/736x/f8/a5/c2/f8a5c2fb377ceaeda02d8ebed9028b3d.jpg"  />
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -34,9 +30,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMarquesDev&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&locale=pt-br" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JMarquesDev&show_icons=true&theme=rose_pine&hide_border=true&locale=pt-br" height="150" alt="stats graph" />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/f8/a5/c2/f8a5c2fb377ceaeda02d8ebed9028b3d.jpg"  />
 </div>
 
 ###
